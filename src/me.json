@@ -1,0 +1,40 @@
+{
+  "name": "Tran Viet Hoa",
+  "jobTitle": "Front-End Web Developer",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "services": [{
+      "name": "React.js",
+      "icon": "fa fa-heart fa-2x",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "name": "Node.js",
+      "icon": "fa fa-heart fa-2x",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "name": "Vue.js",
+      "icon": "fa fa-code fa-2x",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    }
+  ],
+  "resume": {
+    "work": [],
+    "education": []
+  },
+  "portfolio": [],
+  "blogs": [],
+  "contact": {
+    "emailPrimary": "viethoavnm@gmail.com",
+    "emailSecondary": "viethoavnm@hotmail.com",
+    "homePhone": "+84 978 114 250",
+    "mobile": "+84 32868 353 2967",
+    "addressLine1": "No 22, 322/90 My Dinh Street",
+    "addressLine2": "My Dinh 1, Nam Tu Liem, Ha Noi",
+    "facebook": "https://www.facebook.com/viethoavnm",
+    "twitter": "https://www.twitter.com/viethoavnm",
+    "instagram": "https://www.instagram.com/viethoavnm",
+    "linkedin": "https://www.linkedin.com/viethoavnm",
+    "pinterest": "https://www.pinterest.com/viethoavnm"
+  }
+}
